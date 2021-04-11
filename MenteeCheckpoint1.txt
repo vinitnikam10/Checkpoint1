@@ -1,0 +1,4 @@
+I have created a github account.
+I have installed VS Code, Flutter and Android Studio with all the required extensions and plugins.
+We were taugh the basics of firebase recently.
+We have not started coding yet.
